@@ -1,0 +1,34 @@
+_repo: Poholyek_68808
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gárdonyi, Géza
+    aliases:
+    - Gardonyi, Geza
+    - Zigler, Géza
+    - Gardoni, Gezah
+    - Gardoni, Geza
+    - Гардони, Геза
+    birthdate: 1863
+    deathdate: 1922
+    gutenberg_agent_id: '41300'
+    url: http://www.gutenberg.org/2009/agents/41300
+    wikipedia: https://hu.wikipedia.org/wiki/G%C3%A1rdonyi_G%C3%A9za
+description: ''
+gutenberg_issued: '2022-08-21'
+identifiers:
+  gutenberg: '68808'
+language: hu
+pgterms:marc905: 20220818142009grdonyi
+pgterms:marc906: '1910'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Google
+  Books Library Project
+publication_note: Hungary :Singer és Wolfner,1910.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pöhölyék
+url: http://www.gutenberg.org/ebooks/68808
